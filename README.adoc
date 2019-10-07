@@ -1,0 +1,73 @@
+## PURPOSE
+Evan's homework includes assignments on different workbooks on daily basis, different workbook has different purpose. In order for me to help Evan not forget any assignment, I need remeber the details behind.
+
+## 作业惯例
+
+* 每篇课文学完后，一般都要完成 *练习册*，一般在学校完成。学校没做完的回家继续做。
+* 如果语文老师布置的作业中有“*复习课文*”，一般说明第二天就要 [red]#*背诵*# 和 [red]#*默写*# 了。
+
+## 作业本用途
+
+### 语文 
+[cols="1,4,1", options="header"] 
+|===
+|作业本 |用途  |备注
+
+|练习册
+|
+|
+
+|写字A
+|
+|
+
+|写字B
+|
+|
+
+|0号本
+|用来默写词语表的
+|
+
+|1号本
+|抄写本 - 田字格（已经不用了）
+|
+
+|3号本
+|巩固课堂学到的笔记，比较综合
+|
+
+|4号本
+|抄写本 - 条形
+|
+|===
+
+
+
+### 英语
+[cols="1,4,1", options="header"] 
+|===
+|作业本 |用途  |备注
+
+|0号本
+|
+|
+
+|1号本
+|
+|
+
+|家默本
+|
+|
+|===
+
+### 数学
+[cols="1,4,1", options="header"] 
+|===
+|作业本 |用途  |备注
+
+|1号本
+|
+|
+|===
