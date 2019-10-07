@@ -9,28 +9,32 @@ Evan's homework includes assignments on different workbooks on daily basis, diff
 ## 作业本用途
 
 ### 语文 
-[cols="1,4,1", options="header"] 
+[cols="1,6,4", options="header"] 
 |===
 |作业本 |用途  |备注
 
 |练习册
-|
-|
+|配套的课后练习，一般在学校完成，如未完成，需要在家里完成。
+|需要：
+
+1. 根据上课进度检查是否完成对应的课后练习
+
+2. 订正老师的批改
 
 |写字A
-|
-|
+|单号课文对应的写字练习
+|同上
 
 |写字B
-|
-|
+|单号课文对应的写字练习
+|同上
 
 |0号本
 |用来默写词语表的
 |
 
-|1号本
-|抄写本 - 田字格（已经不用了）
+|[.line-through]#1号本#
+|[.line-through]#抄写本 - 田字格（[已经不用了)#
 |
 
 |3号本
@@ -38,7 +42,7 @@ Evan's homework includes assignments on different workbooks on daily basis, diff
 |
 
 |4号本
-|抄写本 - 条形
+|[red]#条形(非田字格)# 的抄写本
 |
 |===
 
