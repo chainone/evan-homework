@@ -31,7 +31,7 @@ Evan's homework includes assignments on different workbooks on daily basis, diff
 
 |家默本
 |在家里默写课文词语表的时候用的
-|学完课文后，老师说复习或提醒默写课文的时候，在[red]#家里# 对课文的词语表进行默写。
+|学完课文后，老师说复习或提醒默写课文的时候，在 [red]#家里# 对课文的词语表进行默写。
 
 [red]#一般在学完一课后，先在家里进行家默，然后才在课堂在0号本上进行默写#
 
